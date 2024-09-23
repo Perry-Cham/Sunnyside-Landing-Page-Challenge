@@ -1,0 +1,25 @@
+{
+  "name": "sunnyside-landing-page-challenge",
+  "version": "1.0.0",
+  "description": "frontendmentor challange",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perry-Cham/Sunnyside-Landing-Page-Challenge.git"
+  },
+  "keywords": [
+    "frontend",
+    "learning",
+    "experience",
+    "be-happy"
+  ],
+  "author": "Perry Cham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Perry-Cham/Sunnyside-Landing-Page-Challenge/issues"
+  },
+  "homepage": "https://github.com/Perry-Cham/Sunnyside-Landing-Page-Challenge#readme"
+}
