@@ -6,9 +6,10 @@ window.addEventListener("load", () => {
   h1.innerText = "We Are Creatives"
   }
 })
-const icon = document.querySelector(".icon");
-const menu = document.querySelector(".mobile-nav")
+const icon = document.querySelector(".menu-icon");
+const menu = document.querySelector(".mobile.navigation")
 icon.addEventListener("click", () => {
+  console.log("clicked menu", menu.classList.contains("active"))
   if(!menu.classList.contains("active")){
     menu.classList.add("active");
   }else{
